@@ -11,7 +11,7 @@ Contributing
 License
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/facial-recognition-project.git
+git clone https://github.com/thegreatgabuza/face_recognition_teegee.git
 cd facial-recognition-project
 Create a virtual environment and activate it:
 python -m venv venv
